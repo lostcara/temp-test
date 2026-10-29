@@ -1,0 +1,118 @@
+.w-h-100v {
+  width: 100vw;
+  height: 100vh;
+}
+
+.w-h-100 {
+  width: 100%;
+  height: 100%;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.w-px400 {
+  width: 400px;
+}
+
+.w-216 {
+  width: 216px;
+}
+
+.width-128 {
+  width: 128px;
+}
+
+.color-red {
+  color: red;
+}
+
+.color-theme {
+  color: #2F54EB;
+}
+
+.color-danger {
+  color: #F43C3C;
+}
+
+.padding-4 {
+  padding: 4px;
+}
+
+.padding-0-4 {
+  padding: 0 4px;
+}
+
+.padding-8-0 {
+  padding: 8px 0;
+}
+
+.padding-40 {
+  padding: 40px;
+}
+
+.padding-left-4 {
+  padding-left: 4px;
+}
+
+.padding-right-8 {
+  padding-right: 8px;
+}
+
+.margin-top-12 {
+  margin-top: 12px;
+}
+
+.margin-top-24 {
+  margin-top: 24px;
+}
+
+.margin-bottom-8 {
+  margin-bottom: 8px;
+}
+
+.margin-bottom-12 {
+  margin-bottom: 12px;
+}
+
+.margin-bottom-4 {
+  margin-bottom: 4px;
+}
+
+.padding-bottom-18 {
+  padding-bottom: 18px;
+}
+
+.margin-left-12 {
+  margin-left: 12px;
+}
+
+.margin-left-48 {
+  margin-left: 48px;
+}
+
+.margin-bottom-24 {
+  margin-bottom: 24px;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.font-color-disabled {
+  color: #d9d9d9;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.icon-size-20 {
+  width: 20px;
+  height: 20px;
+}

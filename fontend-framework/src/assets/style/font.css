@@ -1,0 +1,76 @@
+@font-face {
+  font-family: 'AlibabaPuHuiTi-2-35-Thin';
+  src: url('http://temp.dqalpha.cn/static/font/AlibabaPuHuiTi-2-35-Thin.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AlibabaPuHuiTi-2-45-Light';
+  src: url('http://temp.dqalpha.cn/static/font/AlibabaPuHuiTi-2-45-Light.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AlibabaPuHuiTi-2-55-Regular';
+  /* src: url('http://temp.dqalpha.cn/static/font/AlibabaPuHuiTi-2-55-Regular.ttf'); */
+  src: url('../font/AlibabaPuHuiTi-2-55-Regular.woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AlibabaPuHuiTi-2-65-Medium';
+  /* src: url('http://temp.dqalpha.cn/static/font/AlibabaPuHuiTi-2-65-Medium.ttf'); */
+  src: url('../font/AlibabaPuHuiTi-2-65-Medium.woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AlibabaPuHuiTi-2-75-SemiBold';
+  src: url('http://temp.dqalpha.cn/static/font/AlibabaPuHuiTi-2-75-SemiBold.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AlibabaPuHuiTi-2-85-Bold';
+  src: url('http://temp.dqalpha.cn/static/font/AlibabaPuHuiTi-2-85-Bold.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AlibabaPuHuiTi-2-95-ExtraBold';
+  src: url('http://temp.dqalpha.cn/static/font/AlibabaPuHuiTi-2-95-ExtraBold.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AlibabaPuHuiTi-2-105-Heavy';
+  src: url('http://temp.dqalpha.cn/static/font/AlibabaPuHuiTi-2-105-Heavy.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AlibabaPuHuiTi-2-115-Black';
+  src: url('http://temp.dqalpha.cn/static/font/AlibabaPuHuiTi-2-115-Black.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Oswald-Bold;
+  /* src: url('http://temp.dqalpha.cn/static/font/Oswald-Bold.otf'); */
+  src: url('../font/Oswald-Bold.woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Oswald-Light;
+  /* src: url('http://temp.dqalpha.cn/static/font/Oswald-Light.otf'); */
+  src: url('../font/Oswald-Light.woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Oswald-Regular;
+  /* src: url('http://temp.dqalpha.cn/static/font/Oswald-Regular.otf'); */
+  src: url('../font/Oswald-Regular.woff');
+  font-display: swap;
+}

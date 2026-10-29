@@ -1,0 +1,36 @@
+.alpha-content-card {
+  padding: 12px 12px 0;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  background-color: #fff;
+}
+
+.alpha-flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .alpha-fade-enter-active,
+.alpha-fade-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.alpha-fade-enter-from {
+  opacity: 0;
+}
+
+.alpha-fade-leave-to {
+  opacity: 0;
+} */
+
+.alpha-card {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 24px;
+}
+
+.alpha-table-btn {
+  padding: 0 4px;
+  height: 24px;
+}
